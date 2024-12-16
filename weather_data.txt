@@ -1,0 +1,6 @@
+Weather Data Report
+=================
+
+City: London, Temperature: 10.7°C, Weather: overcast clouds
+City: Irvine, Temperature: 11.9°C, Weather: scattered clouds
+City: Anaheim, Temperature: 11.8°C, Weather: haze

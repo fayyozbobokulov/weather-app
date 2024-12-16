@@ -1,0 +1,18 @@
+Weather Report
+
+City: London
+Temperature: 10.7°C
+Description: overcast clouds
+
+City: Tokyo
+Temperature: 12.2°C
+Description: few clouds
+
+City: Tashkent
+Temperature: -6.0°C
+Description: mist
+
+
+Analysis:
+- City with the highest temperature: Tokyo (12.2°C)
+- City with the lowest temperature: Tashkent (-6.0°C)
